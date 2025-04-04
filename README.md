@@ -14,3 +14,8 @@ sudo apt remove brltty
 ´´´
 sudo chmod 666 /dev/ttyUSB0
 ´´´
+
+## Kinect V1
+https://medium.com/robotics-weekends/how-to-turn-old-kinect-into-a-compact-usb-powered-rgbd-sensor-f23d58e10eb0
+
+- 5V Spannungsversorgung
